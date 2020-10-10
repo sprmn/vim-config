@@ -1,0 +1,6 @@
+{
+   "languageserver": {
+  },
+  "clangd.semanticHighlighting": true,
+  "coc.preferences.formatOnSaveFiletypes": ["css", "markdown", "typescript", "javascript", "typescriptreact", "javascriptreact"]
+}

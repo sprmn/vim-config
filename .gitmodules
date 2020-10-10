@@ -1,0 +1,37 @@
+[submodule "pack/nerdtree/start/nerdtree"]
+	path = pack/nerdtree/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/lightline/start/lightline"]
+	path = pack/lightline/start/lightline
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "pack/fugitive/start/fugitive"]
+	path = pack/fugitive/start/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/fzf/start/fzf"]
+	path = pack/fzf/start/fzf
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "pack/surround/start/surround"]
+	path = pack/surround/start/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/gitgutter/start/gitgutter"]
+	path = pack/gitgutter/start/gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "pack/tcomment/start/tcomment"]
+	path = pack/tcomment/start/tcomment
+	url = https://github.com/tomtom/tcomment_vim.git
+[submodule "pack/auto-pairs/start/auto-pairs"]
+	path = pack/auto-pairs/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "pack/jsx-pretty/opt/jsx-pretty"]
+	path = pack/jsx-pretty/opt/jsx-pretty
+	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
+[submodule "pack/javascript/opt/javascript"]
+	path = pack/javascript/opt/javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "pack/typescript/opt/typescript"]
+	path = pack/typescript/opt/typescript
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "pack/coc/opt/coc"]
+	path = pack/coc/opt/coc
+	url = https://github.com/neoclide/coc.nvim
+	branch = release
