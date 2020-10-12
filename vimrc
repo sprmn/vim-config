@@ -5,6 +5,11 @@ syntax on
 filetype plugin on
 filetype indent on
 
+augroup SyntaxSettings
+    autocmd!
+    autocmd BufNewFile,BufRead *.tsx set filetype=typescript.jsx
+augroup END
+
 " Use local vimrc if available
 set exrc
 set secure
