@@ -40,6 +40,7 @@
 [submodule "pack/neoclide/opt/coc.nvim"]
 	path = pack/neoclide/opt/coc.nvim
 	url = https://github.com/neoclide/coc.nvim.git
+	branch = release
 [submodule "pack/vim-test/opt/vim-test"]
 	path = pack/vim-test/opt/vim-test
 	url = https://github.com/vim-test/vim-test.git

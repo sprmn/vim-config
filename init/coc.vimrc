@@ -63,5 +63,5 @@ nmap <leader>f  <Plug>(coc-format-selected)
 " Add `:Format` command to format current buffer.
 command! -nargs=0 Format :call CocAction('format')
 " Enable coc.nvim
-packadd coc
+packadd coc.nvim
 
