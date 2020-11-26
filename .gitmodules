@@ -47,3 +47,12 @@
 [submodule "pack/Chiel92/opt/vim-autoformat"]
 	path = pack/Chiel92/opt/vim-autoformat
 	url = https://github.com/Chiel92/vim-autoformat.git
+[submodule "pack/mattn/opt/emmet-vim"]
+	path = pack/mattn/opt/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "pack/neoclide/opt/jsonc.vim"]
+	path = pack/neoclide/opt/jsonc.vim
+	url = https://github.com/neoclide/jsonc.vim.git
+[submodule "pack/ianks/opt/vim-tsx"]
+	path = pack/ianks/opt/vim-tsx
+	url = https://github.com/ianks/vim-tsx.git

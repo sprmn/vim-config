@@ -25,11 +25,24 @@ endif
 let g:material_terminal_italics = 1
 let g:material_theme_style = 'palenight'
 colorscheme material
-let g:lightline = { 'colorscheme': 'material_vim' }
-let g:airline_theme = 'material'
 
-" show airline
+" show airline and not --INSERT--
+let g:lightline = { 
+      \ 'colorscheme': 'material_vim',
+      \ 'active': {
+      \   'left': [ [ 'mode', 'paste'],
+      \             [ 'cocstatus', 'gitbranch', 'readonly', 'filename', 'modified' ] ]
+      \ },
+      \ 'component': {
+      \   'filename': '%<%f'
+      \ },
+      \ 'component_function': {
+      \   'gitbranch': 'FugitiveHead',
+      \   'cocstatus': 'coc#status',
+      \ }
+      \ }
 set laststatus=2
+set noshowmode
 
 " Show cursor line
 set cursorline
