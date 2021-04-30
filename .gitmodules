@@ -1,0 +1,42 @@
+[submodule "pack/kaicataldo/start/material.vim"]
+	path = pack/kaicataldo/start/material.vim
+	url = https://github.com/kaicataldo/material.vim.git
+[submodule "pack/leafgarland/opt/typescript-vim"]
+	path = pack/leafgarland/opt/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "pack/peitalin/opt/vim-jsx-typescript"]
+	path = pack/peitalin/opt/vim-jsx-typescript
+	url = https://github.com/peitalin/vim-jsx-typescript.git
+[submodule "pack/preservim/start/nerdtree"]
+	path = pack/preservim/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/itchyny/start/lightline.vim"]
+	path = pack/itchyny/start/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "pack/tpope/start/vim-fugitive"]
+	path = pack/tpope/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/tpope/start/vim-surround"]
+	path = pack/tpope/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/airblade/start/vim-gitgutter"]
+	path = pack/airblade/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "pack/tomtom/start/tcomment_vim"]
+	path = pack/tomtom/start/tcomment_vim
+	url = https://github.com/tomtom/tcomment_vim.git
+[submodule "pack/jiangmiao/start/auto-pairs"]
+	path = pack/jiangmiao/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "pack/junegunn/start/fzf.vim"]
+	path = pack/junegunn/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "pack/junegunn/start/fzf"]
+	path = pack/junegunn/start/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "pack/neoclide/opt/coc.nvim"]
+	path = pack/neoclide/opt/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "pack/tpope/start/vim-sensible"]
+	path = pack/tpope/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
