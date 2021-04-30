@@ -36,3 +36,6 @@ source $HOME/.vim/init/gitgutter.vimrc
 source $HOME/.vim/init/fzf.vimrc
 source $HOME/.vim/init/nerdtree.vimrc
 source $HOME/.vim/init/fugitive.vimrc
+
+" set filetypes as typescriptreact
+autocmd BufNewFile,BufRead *.tsx,*.jsx set filetype=typescriptreact

@@ -1,3 +1,3 @@
-source $HOME/.vim/ftplugin/typescript.vim
-packadd ianks/vim-tsx
-packadd emmet-vim
+:packadd leafgarland/typescript-vim
+:packadd vim-jsx-typescript
+source $HOME/.vim/init/coc.vimrc

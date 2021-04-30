@@ -1,8 +1,4 @@
 {
-  "clangd.semanticHighlighting": true,
   "coc.preferences.formatOnSaveFiletypes": ["css", "markdown", "typescript", "javascript", "typescriptreact", "javascriptreact"],
-  "snippets.ultisnips.directories": ["~/.vim/snips"],
-  "tailwindCSS.headwind.runOnSave": false,
-  "suggest.noselect": false,
   "eslint.autoFixOnSave": true
 }

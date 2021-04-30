@@ -1,3 +1,12 @@
+[submodule "pack/kaicataldo/start/material.vim"]
+	path = pack/kaicataldo/start/material.vim
+	url = https://github.com/kaicataldo/material.vim.git
+[submodule "pack/leafgarland/opt/typescript-vim"]
+	path = pack/leafgarland/opt/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "pack/peitalin/opt/vim-jsx-typescript"]
+	path = pack/peitalin/opt/vim-jsx-typescript
+	url = https://github.com/peitalin/vim-jsx-typescript.git
 [submodule "pack/preservim/start/nerdtree"]
 	path = pack/preservim/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
@@ -19,40 +28,15 @@
 [submodule "pack/jiangmiao/start/auto-pairs"]
 	path = pack/jiangmiao/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
-[submodule "pack/tpope/start/vim-sensible"]
-	path = pack/tpope/start/vim-sensible
-	url = https://github.com/tpope/vim-sensible.git
-[submodule "pack/junegunn/start/fzf"]
-	path = pack/junegunn/start/fzf
-	url = https://github.com/junegunn/fzf.git
 [submodule "pack/junegunn/start/fzf.vim"]
 	path = pack/junegunn/start/fzf.vim
 	url = https://github.com/junegunn/fzf.vim.git
-[submodule "pack/MaxMEllon/opt/vim-jsx-pretty"]
-	path = pack/MaxMEllon/opt/vim-jsx-pretty
-	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
-[submodule "pack/pangloss/opt/vim-javascript"]
-	path = pack/pangloss/opt/vim-javascript
-	url = https://github.com/pangloss/vim-javascript.git
-[submodule "pack/leafgarland/opt/typescript-vim"]
-	path = pack/leafgarland/opt/typescript-vim
-	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "pack/junegunn/start/fzf"]
+	path = pack/junegunn/start/fzf
+	url = https://github.com/junegunn/fzf.git
 [submodule "pack/neoclide/opt/coc.nvim"]
 	path = pack/neoclide/opt/coc.nvim
 	url = https://github.com/neoclide/coc.nvim.git
-	branch = release
-[submodule "pack/vim-test/opt/vim-test"]
-	path = pack/vim-test/opt/vim-test
-	url = https://github.com/vim-test/vim-test.git
-[submodule "pack/Chiel92/opt/vim-autoformat"]
-	path = pack/Chiel92/opt/vim-autoformat
-	url = https://github.com/Chiel92/vim-autoformat.git
-[submodule "pack/mattn/opt/emmet-vim"]
-	path = pack/mattn/opt/emmet-vim
-	url = https://github.com/mattn/emmet-vim.git
-[submodule "pack/neoclide/opt/jsonc.vim"]
-	path = pack/neoclide/opt/jsonc.vim
-	url = https://github.com/neoclide/jsonc.vim.git
-[submodule "pack/ianks/opt/vim-tsx"]
-	path = pack/ianks/opt/vim-tsx
-	url = https://github.com/ianks/vim-tsx.git
+[submodule "pack/tpope/start/vim-sensible"]
+	path = pack/tpope/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
